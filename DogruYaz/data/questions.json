@@ -1,0 +1,200 @@
+{
+  "spelling": [
+    {
+      "id": 1,
+      "question": "Aşağıdakilerden hangisi doğru yazılmıştır?",
+      "option1": "Yalnız",
+      "option2": "yanlız",
+      "correctOption": 1,
+      "explanation": "'Yalnız' kelimesinin doğru yazılışı TDK'ya göre 'yalnız' şeklindedir."
+    },
+    {
+      "id": 2,
+      "question": "Aşağıdakilerden hangisi doğru yazılmıştır?",
+      "option1": "Lakin",
+      "option2": "lâkin",
+      "correctOption": 1,
+      "explanation": "'Lakin' kelimesinin TDK'ya göre doğru yazılışı 'lâkin' şeklindedir."
+    },
+    {
+      "id": 3,
+      "question": "Aşağıdakilerden hangisi doğru yazılmıştır?",
+      "option1": "Her şey",
+      "option2": "Herşey",
+      "correctOption": 1,
+      "explanation": "'Her şey' TDK'ya göre ayrı yazılır."
+    },
+    {
+      "id": 4,
+      "question": "Aşağıdakilerden hangisi doğru yazılmıştır?",
+      "option1": "Hiçbir",
+      "option2": "Hiç bir",
+      "correctOption": 1,
+      "explanation": "'Hiçbir' kelimesi TDK'ya göre bitişik yazılır."
+    },
+    {
+      "id": 5,
+      "question": "Aşağıdakilerden hangisi doğru yazılmıştır?",
+      "option1": "Birşey",
+      "option2": "Bir şey",
+      "correctOption": 2,
+      "explanation": "Doğru yazılışı 'bir şey' şeklinde ayrı yazılır."
+    },
+    {
+      "id": 6,
+      "question": "Aşağıdakilerden hangisi doğru yazılmıştır?",
+      "option1": "Herkez",
+      "option2": "Herkes",
+      "correctOption": 2,
+      "explanation": "Doğru yazılışı 'herkes' şeklindedir."
+    },
+    {
+      "id": 7,
+      "question": "Aşağıdakilerden hangisi doğru yazılmıştır?",
+      "option1": "Yalnış",
+      "option2": "Yanlış",
+      "correctOption": 2,
+      "explanation": "Doğru yazılışı 'yanlış' şeklindedir."
+    },
+    {
+      "id": 8,
+      "question": "Aşağıdakilerden hangisi doğru yazılmıştır?",
+      "option1": "Kalvye",
+      "option2": "Klavye",
+      "correctOption": 2,
+      "explanation": "Doğru yazılışı 'klavye' şeklindedir, 'kalvye' değil."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": 1,
+      "question": "'Müsaade' kelimesi 'izin' anlamına gelir.",
+      "answer": true,
+      "explanation": "'Müsaade' kelimesi Arapça kökenli olup 'izin' anlamında kullanılır."
+    },
+    {
+      "id": 2,
+      "question": "'Mütevazı' kelimesi 'alçakgönüllü' anlamına gelir.",
+      "answer": true,
+      "explanation": "'Mütevazı' kelimesi alçakgönüllü, gösterişsiz anlamlarına gelir."
+    },
+    {
+      "id": 3,
+      "question": "'İstifade' kelimesi 'faydalanmak' anlamına gelir.",
+      "answer": true,
+      "explanation": "'İstifade' kelimesi faydalanmak, yararlanmak anlamına gelir."
+    },
+    {
+      "id": 4,
+      "question": "'Müteakip' kelimesi 'sonra gelen' anlamına gelir.",
+      "answer": true,
+      "explanation": "'Müteakip' kelimesi 'sonra, sonra gelen, takip eden' anlamlarına gelir."
+    },
+    {
+      "id": 5,
+      "question": "'Mütemadiyen' kelimesi 'sürekli' anlamına gelir.",
+      "answer": true,
+      "explanation": "'Mütemadiyen' kelimesi 'sürekli, devamlı' anlamına gelir."
+    },
+    {
+      "id": 6,
+      "question": "'Müstakil' kelimesi 'bağımsız' anlamına gelir.",
+      "answer": true,
+      "explanation": "'Müstakil' kelimesi 'bağımsız, ayrı' anlamlarına gelir."
+    },
+    {
+      "id": 7,
+      "question": "'Münferit' kelimesi 'tek, yalnız' anlamına gelir.",
+      "answer": true,
+      "explanation": "'Münferit' kelimesi 'tek başına, ayrı' anlamlarına gelir."
+    }
+  ],
+  "general": [
+    {
+      "id": 1,
+      "question": "Deve kuşları başlarını kuma gömerek tehlikeden saklanır.",
+      "answer": false,
+      "explanation": "Bu yaygın bir mittir. Deve kuşları başlarını kuma gömmezler."
+    },
+    {
+      "id": 2,
+      "question": "Dinozorlar yaklaşık 65 milyon yıl önce yok oldu.",
+      "answer": true,
+      "explanation": "Dinozorlar Kretase döneminin sonunda, yaklaşık 65 milyon yıl önce yok oldular."
+    },
+    {
+      "id": 3,
+      "question": "İnsan vücudundaki en büyük organ deridir.",
+      "answer": true,
+      "explanation": "Deri, vücudumuzdaki en büyük organdır ve yaklaşık 2 metrekare yüzey alanına sahiptir."
+    },
+    {
+      "id": 4,
+      "question": "Dünya'nın en derin noktası Mariana Çukuru'dur.",
+      "answer": true,
+      "explanation": "Mariana Çukuru, yaklaşık 11 km derinliğiyle dünyanın en derin noktasıdır."
+    },
+    {
+      "id": 5,
+      "question": "Bir insan günde ortalama 20,000 kez nefes alır.",
+      "answer": true,
+      "explanation": "Yetişkin bir insan günde ortalama 20,000 kez nefes alıp verir."
+    },
+    {
+      "id": 6,
+      "question": "Köpekbalıkları uyumaz.",
+      "answer": false,
+      "explanation": "Köpekbalıkları uyur, ancak bazı türleri hareket halindeyken uyur."
+    },
+    {
+      "id": 7,
+      "question": "İnsan DNA'sı muzla %50 aynıdır.",
+      "answer": true,
+      "explanation": "İnsanlar ve muzlar genetik materyallerinin yaklaşık %50'sini paylaşırlar."
+    }
+  ],
+  "history": [
+    {
+      "id": 1,
+      "question": "Osmanlı'da padişahlar harem hayatı yaşardı.",
+      "answer": true,
+      "explanation": "Osmanlı sarayında harem, padişahın ailesi ve cariyelerin yaşadığı özel bölümdü."
+    },
+    {
+      "id": 2,
+      "question": "Fatih Sultan Mehmet İstanbul'u 21 yaşında fethetmiştir.",
+      "answer": true,
+      "explanation": "Fatih Sultan Mehmet, 29 Mayıs 1453'te, henüz 21 yaşındayken İstanbul'u fethetmiştir."
+    },
+    {
+      "id": 3,
+      "question": "Türkiye Cumhuriyeti 29 Ekim 1923'te ilan edilmiştir.",
+      "answer": true,
+      "explanation": "Türkiye Cumhuriyeti, Mustafa Kemal Atatürk önderliğinde 29 Ekim 1923'te ilan edilmiştir."
+    },
+    {
+      "id": 4,
+      "question": "Malazgirt Savaşı 1071 yılında gerçekleşmiştir.",
+      "answer": true,
+      "explanation": "Malazgirt Savaşı, Selçuklu Sultanı Alparslan önderliğinde 26 Ağustos 1071'de kazanılmıştır."
+    },
+    {
+      "id": 5,
+      "question": "Çanakkale Savaşı 1915 yılında başlamıştır.",
+      "answer": true,
+      "explanation": "Çanakkale Savaşı 18 Mart 1915'te deniz savaşlarıyla başlamıştır."
+    },
+    {
+      "id": 6,
+      "question": "TBMM 23 Nisan 1920'de açılmıştır.",
+      "answer": true,
+      "explanation": "Türkiye Büyük Millet Meclisi, 23 Nisan 1920'de Ankara'da açılmıştır."
+    },
+    {
+      "id": 7,
+      "question": "Kurtuluş Savaşı 1922'de sona ermiştir.",
+      "answer": true,
+      "explanation": "Kurtuluş Savaşı, 9 Eylül 1922'de İzmir'in kurtuluşuyla fiilen sona ermiştir."
+    }
+  ]
+}
